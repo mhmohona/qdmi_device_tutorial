@@ -1,0 +1,111 @@
+Start testing: Feb 19 12:48 +06
+----------------------------------------------------------
+1/4 Testing: QDMIBaseTest.Initialization
+1/4 Test: QDMIBaseTest.Initialization
+Command: "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test" "--gtest_filter=QDMIBaseTest.Initialization" "--gtest_also_run_disabled_tests"
+Directory: /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test
+"QDMIBaseTest.Initialization" start time: Feb 19 12:48 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QDMIBaseTest.Initialization
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QDMIBaseTest
+[ RUN      ] QDMIBaseTest.Initialization
+[       OK ] QDMIBaseTest.Initialization (0 ms)
+[----------] 1 test from QDMIBaseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QDMIBaseTest.Initialization" end time: Feb 19 12:48 +06
+"QDMIBaseTest.Initialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: QDMISessionTest.Allocation
+2/4 Test: QDMISessionTest.Allocation
+Command: "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test" "--gtest_filter=QDMISessionTest.Allocation" "--gtest_also_run_disabled_tests"
+Directory: /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test
+"QDMISessionTest.Allocation" start time: Feb 19 12:48 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QDMISessionTest.Allocation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QDMISessionTest
+[ RUN      ] QDMISessionTest.Allocation
+[       OK ] QDMISessionTest.Allocation (0 ms)
+[----------] 1 test from QDMISessionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QDMISessionTest.Allocation" end time: Feb 19 12:48 +06
+"QDMISessionTest.Allocation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: QDMISessionTest.QueryProperties
+3/4 Test: QDMISessionTest.QueryProperties
+Command: "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test" "--gtest_filter=QDMISessionTest.QueryProperties" "--gtest_also_run_disabled_tests"
+Directory: /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test
+"QDMISessionTest.QueryProperties" start time: Feb 19 12:48 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QDMISessionTest.QueryProperties
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QDMISessionTest
+[ RUN      ] QDMISessionTest.QueryProperties
+[       OK ] QDMISessionTest.QueryProperties (0 ms)
+[----------] 1 test from QDMISessionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QDMISessionTest.QueryProperties" end time: Feb 19 12:48 +06
+"QDMISessionTest.QueryProperties" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: QDMISessionTest.SubmitAndSimulateJob
+4/4 Test: QDMISessionTest.SubmitAndSimulateJob
+Command: "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test" "--gtest_filter=QDMISessionTest.SubmitAndSimulateJob" "--gtest_also_run_disabled_tests"
+Directory: /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test
+"QDMISessionTest.SubmitAndSimulateJob" start time: Feb 19 12:48 +06
+Output:
+----------------------------------------------------------
+Running main() from /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QDMISessionTest.SubmitAndSimulateJob
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QDMISessionTest
+[ RUN      ] QDMISessionTest.SubmitAndSimulateJob
+[       OK ] QDMISessionTest.SubmitAndSimulateJob (0 ms)
+[----------] 1 test from QDMISessionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QDMISessionTest.SubmitAndSimulateJob" end time: Feb 19 12:48 +06
+"QDMISessionTest.SubmitAndSimulateJob" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 19 12:48 +06

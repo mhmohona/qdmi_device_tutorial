@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tutorial-qdmi-device-test.dir/link.d "CMakeFiles/tutorial-qdmi-device-test.dir/test_tutorial_device.cpp.o" -o tutorial-qdmi-device-test  -Wl,-rpath,/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src ../lib/libgtest_main.a ../src/libtutorial-qdmi-device.so ../lib/libgtest.a

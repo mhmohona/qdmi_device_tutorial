@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,--dependency-file=CMakeFiles/tutorial-qdmi-device.dir/link.d -Wl,-soname,libtutorial-qdmi-device.so -o libtutorial-qdmi-device.so "CMakeFiles/tutorial-qdmi-device.dir/tutorial_device.cpp.o"

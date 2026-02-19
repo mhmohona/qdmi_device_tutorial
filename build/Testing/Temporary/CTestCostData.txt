@@ -1,0 +1,5 @@
+QDMIBaseTest.Initialization 1 0.00206428
+QDMISessionTest.Allocation 1 0.00214865
+QDMISessionTest.QueryProperties 1 0.00208517
+QDMISessionTest.SubmitAndSimulateJob 1 0.00211459
+---

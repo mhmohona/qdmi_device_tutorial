@@ -1,0 +1,5 @@
+if(EXISTS "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test[1]_tests.cmake")
+  include("/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial-qdmi-device-test[1]_tests.cmake")
+else()
+  add_test(tutorial-qdmi-device-test_NOT_BUILT tutorial-qdmi-device-test_NOT_BUILT)
+endif()

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/include -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/include -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src",
+  "command": "/usr/bin/c++ -DQDMI_VERSION=\\\"1.3.0\\\" -Dtutorial_QDMI_DEVICE_VERSION=\\\"0.1.0\\\" -Dtutorial_qdmi_device_EXPORTS -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/qdmi-src/include -O3 -DNDEBUG -std=gnu++20 -fPIC -g -Wall -Wextra -Wshadow -Wcast-align -Wno-unused -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wno-unknown-pragmas -Wno-pragmas -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wsuggest-attribute=noreturn -Wmissing-noreturn -o CMakeFiles/tutorial-qdmi-device.dir/tutorial_device.cpp.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/src/tutorial_device.cpp",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/src/tutorial_device.cpp",
+  "output": "src/CMakeFiles/tutorial-qdmi-device.dir/tutorial_device.cpp.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -x c++ -O3 -DNDEBUG -o CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/constants.h.cxx.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/constants.h.cxx",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/constants.h.cxx",
+  "output": "src/CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/constants.h.cxx.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -x c++ -O3 -DNDEBUG -o CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/device.h.cxx.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/device.h.cxx",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/device.h.cxx",
+  "output": "src/CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/device.h.cxx.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -x c++ -O3 -DNDEBUG -o CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/types.h.cxx.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/types.h.cxx",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/types.h.cxx",
+  "output": "src/CMakeFiles/tutorial-qdmi-device_verify_interface_header_sets.dir/tutorial-qdmi-device_verify_interface_header_sets/tutorial_qdmi/types.h.cxx.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/qdmi-src/include -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -O3 -DNDEBUG -g -Wall -Wextra -Wshadow -Wcast-align -Wno-unused -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wno-unknown-pragmas -Wno-pragmas -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wsuggest-attribute=noreturn -Wmissing-noreturn -o CMakeFiles/qdmi_test_tutorial_device_defs.dir/tutorial_test_defs.cpp.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial_test_defs.cpp",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test/tutorial_test_defs.cpp",
+  "output": "test/CMakeFiles/qdmi_test_tutorial_device_defs.dir/tutorial_test_defs.cpp.o"
+},
+{
+  "directory": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/test",
+  "command": "/usr/bin/c++  -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/qdmi-src/include -I/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/src/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest/include -isystem /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -g -Wall -Wextra -Wshadow -Wcast-align -Wno-unused -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wno-unknown-pragmas -Wno-pragmas -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wsuggest-attribute=noreturn -Wmissing-noreturn -o CMakeFiles/tutorial-qdmi-device-test.dir/test_tutorial_device.cpp.o -c /home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/test/test_tutorial_device.cpp",
+  "file": "/home/mohona/Desktop/github/QDMI/tutorial_qdmi_device/test/test_tutorial_device.cpp",
+  "output": "test/CMakeFiles/tutorial-qdmi-device-test.dir/test_tutorial_device.cpp.o"
+}
+]

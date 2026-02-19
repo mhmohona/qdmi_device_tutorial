@@ -1,0 +1,38 @@
+{
+  "tests": 4,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "QDMIBaseTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Initialization",
+          "file": "\/home\/mohona\/Desktop\/github\/QDMI\/tutorial_qdmi_device\/test\/test_tutorial_device.cpp",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "name": "QDMISessionTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "Allocation",
+          "file": "\/home\/mohona\/Desktop\/github\/QDMI\/tutorial_qdmi_device\/test\/test_tutorial_device.cpp",
+          "line": 35
+        },
+        {
+          "name": "QueryProperties",
+          "file": "\/home\/mohona\/Desktop\/github\/QDMI\/tutorial_qdmi_device\/test\/test_tutorial_device.cpp",
+          "line": 39
+        },
+        {
+          "name": "SubmitAndSimulateJob",
+          "file": "\/home\/mohona\/Desktop\/github\/QDMI\/tutorial_qdmi_device\/test\/test_tutorial_device.cpp",
+          "line": 49
+        }
+      ]
+    }
+  ]
+}
